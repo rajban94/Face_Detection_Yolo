@@ -23,7 +23,7 @@ Usage
 Clone this repository
 
      git clone https://github.com/rajban94/Face_Detection_Yolo/
-For face detection, you should download the YOLOv3 weights file
+For face detection, you should download the YOLOv3 weights file and change the model_path with your path in config.ini
 
 Run the following command:
 
